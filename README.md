@@ -17,7 +17,6 @@ To get started with PyChat, follow these steps:
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/LuthoYRN/pychat.git
-    cd pychat
     ```
 2. Navigate to the project directory:
     ```bash
@@ -45,8 +44,6 @@ Once the server is up, start the client on multiple PCs to connect and chat:
 python client.py
 ```
 Connect to the server on port 17280 and use the server's ip address
-
-## Features ✨
 
 - **List Clients**: View all connected clients.
 - **Connect to Client**: Initiate a chat session with a specific client.
